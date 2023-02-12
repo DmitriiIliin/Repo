@@ -15,3 +15,5 @@ I like cycling
 а еще люблю поплавать
 
 ![my picture2](https://www.aqualibrium.ru/optimize?size=700&quality=50&format=webp&src=https://www.aqualibrium.ru/media/__sized__/swimmingswimmingpoolcourse/announce/7-tips-for-awesome-breaststroke-technique-crop-c0-5__0-5-700x524-80.jpg)
+
+На этом пожалуй все.
